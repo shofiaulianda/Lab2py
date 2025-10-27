@@ -176,6 +176,7 @@ sama dengan bilangan lainnya, maka cetak pernyataan “BENAR”
 ## Output :    
 Kondisi benar :    
 <img width="596" height="114" alt="image" src="https://github.com/user-attachments/assets/2d1daa87-7afb-49f5-b545-5dca52b0d3c8" />   
+
 Kondisi salah :    
 <img width="595" height="99" alt="image" src="https://github.com/user-attachments/assets/b2b32496-2232-420b-8333-ab925d5dbf84" />
 
