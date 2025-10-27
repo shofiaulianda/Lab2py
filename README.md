@@ -180,7 +180,7 @@ Kondisi salah :
 <img width="595" height="99" alt="image" src="https://github.com/user-attachments/assets/b2b32496-2232-420b-8333-ab925d5dbf84" />
 
 ## Latihan 3: Buat program python untuk kasus berikut:    
-Kasus 1: Program Pemesanan Tiket Bioskop   
+## Kasus 1: Program Pemesanan Tiket Bioskop   
 
 ## Code Program :    
 <img width="453" height="394" alt="image" src="https://github.com/user-attachments/assets/2991b143-e214-4ce6-9b24-f7d61ff20714" />
